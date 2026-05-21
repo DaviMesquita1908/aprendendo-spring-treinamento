@@ -4,7 +4,7 @@ import com.treinamentospring.treinamento_spring.Infrastructure.Entity.Usuario;
 import com.treinamentospring.treinamento_spring.Infrastructure.Exceptions.ConflictException;
 import com.treinamentospring.treinamento_spring.Infrastructure.Exceptions.ResourceNotFoundException;
 import com.treinamentospring.treinamento_spring.Infrastructure.Repository.UsuarioRepository;
-import lombok.RequiredArgsConstructor;git add
+import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
